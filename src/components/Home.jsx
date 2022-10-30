@@ -11,6 +11,9 @@ function Home() {
               src={require('./img/bull_dog.jpeg')}
               alt=""
             />
+            <p>
+              Look at me. Don't you love me already.... XD
+            </p>
           </div>
           <div class="col-lg-5">
             <h1 class="font-weight-light">Bouledogue Français</h1>

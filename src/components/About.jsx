@@ -8,9 +8,12 @@ function About() {
           <div class="col-lg-7">
             <img
               class="img-fluid rounded mb-4 mb-lg-0"
-              src={require('./img/bull_dog.jpeg')}
+              src={require('./img/3.webp')}
               alt=""
             />
+            <p>
+              RUNNNNN sexy baby... XD
+            </p>
           </div>
           <div class="col-lg-5">
             <h1 class="font-weight-light">About</h1>

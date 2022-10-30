@@ -8,9 +8,12 @@ function Contact() {
           <div class="col-lg-7">
             <img
               class="img-fluid rounded mb-4 mb-lg-0"
-              src={require('./img/bull_dog.jpeg')} 
+              src={require('./img/2.webp')} 
               alt=""
             />
+            <p>
+              Look at this handsome boyyyyyy....
+            </p>
           </div>
           <div class="col-lg-5">
             <h1 class="font-weight-light">How to help</h1>
