@@ -8,18 +8,18 @@ function Contact() {
           <div class="col-lg-7">
             <img
               class="img-fluid rounded mb-4 mb-lg-0"
-              src="http://placehold.it/900x400"
+              src={require('./img/bull_dog.jpeg')} 
               alt=""
             />
           </div>
           <div class="col-lg-5">
-            <h1 class="font-weight-light">Contact</h1>
+            <h1 class="font-weight-light">How to help</h1>
             <p>
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s, when an unknown printer took a galley of
-              type and scrambled it to make a type specimen book.
+              Please sign up to rescue dogs!!
             </p>
+            <button>
+                <a href = "https://houndsinpounds.com/?gclid=Cj0KCQjwnvOaBhDTARIsAJf8eVM9pYoT9VsobgEOZaUVLbcNHLRh8CVK-dvFXyctUEVpxWfNIlKkjqMaAgw0EALw_wcB">Press here!</a>
+            </button>
           </div>
         </div>
       </div>
@@ -28,3 +28,5 @@ function Contact() {
 }
 
 export default Contact;
+
+
